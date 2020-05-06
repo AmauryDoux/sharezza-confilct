@@ -1,2 +1,2 @@
 # sharezza-confilct
-There will be conflicts!!
+REMOTE There will be conflicts!!
