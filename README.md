@@ -1,2 +1,2 @@
 # sharezza-confilct
-There will be conflicts!!
+LOCAL There will be conflicts!!
